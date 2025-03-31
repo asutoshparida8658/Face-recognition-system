@@ -1,0 +1,6 @@
+2025-03-21 02:06:49,243 INFO: No existing encodings file found, starting with empty dataset [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:63]
+2025-03-21 02:06:49,259 INFO: === Face Recognition Server Starting === [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:371]
+2025-03-21 02:06:49,259 INFO: UPLOAD_FOLDER: uploads [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:372]
+2025-03-21 02:06:49,259 INFO: FACES_FOLDER: uploads\faces [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:373]
+2025-03-21 02:06:49,259 INFO: TEMP_FOLDER: uploads\temp [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:374]
+2025-03-21 02:06:49,923 INFO: FACE_MATCH_TOLERANCE: 0.6 [in e:\face-recognition-attendance-system\face-recognition\face_recognition_server.py:375]
